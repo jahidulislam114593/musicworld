@@ -45,7 +45,6 @@ function addVariablesForColors({ addBase, theme }: any) {
 }
 
 
-
 const config: Config = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
